@@ -1,2 +1,5 @@
 git进阶功能
-sssssssssssss
+
+git is a free software distributed under the GPL
+
+Head^^
